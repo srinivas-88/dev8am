@@ -1,3 +1,11 @@
+void deposite()
+{
+
+bal=bal+amount
+
+}
+  	
+
 class bank
 {
 
