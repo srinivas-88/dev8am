@@ -4,7 +4,11 @@ void deposite()
 bal=bal+amount
 
 }
-  	
+ void withdraw() 
+{
+
+bal=bal-amount
+}	
 
 class bank
 {
