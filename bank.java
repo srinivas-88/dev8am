@@ -1,3 +1,22 @@
+void code-A()
+{
+
+.....Test code-A
+.....Test code-A
+.....Test code-A
+
+
+
+
+}
+
+
+
+
+
+
+
+
 void deposite()
 {
 
