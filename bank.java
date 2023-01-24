@@ -10,6 +10,17 @@ void code-A()
 
 }
 
+void code-B()
+{
+
+.....Test code-B
+.....Test code-B
+.....Test code-B
+
+
+
+
+}
 
 
 
